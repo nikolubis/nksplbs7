@@ -1,4 +1,4 @@
-
+![Anime](./anime.png)
 
 # Hi there! 👋 I'm Niko Saputra
 
