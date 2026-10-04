@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./Galaxy.png" width="600">
+</p>
+
 # Hi there! 👋 I'm Niko Saputra
 
 ---
