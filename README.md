@@ -1,39 +1,20 @@
-# nksplbs7
-🎓 Informatics Student 
-
-# Hi there! 👋 I'm Niko
-
-## 💻 About Me
-
-- Name : Niko Saputra Lubis
-- Age : 19
-- 🎓 Informatics student at ST BHINNEKA University
-- 📱 Flutter Developer
-- 💻 Learning Python, C++, JavaScript
-- 🚀 Interested in Technology
-- 🌱 Always learning something new
+# Hi there! 👋 I'm Niko Saputra
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 INFORMATICS STUDENT // ABOUT_ME.exe
 
-- Flutter
-- Dart
-- Python
-- C++
-- HTML
-- CSS
-- JavaScript
+```text
+$ whoami
 
----
+> Name: Niko Saputra
+> Role: Informatics Student
+> University: Universitas Satya Terra Bhinneka
 
-## 📊 My GitHub
+$ cat core_directives.txt
 
-![My Github](https://github.com/nikolubis)
-
----
-
-## 📫 Contact Me
-
-Instagram: @nksplbs  
-Email: loxxaa35@gmail.com
+> Learning programming and technology.
+> Interested in software development.
+> Currently learning Flutter and web development.
+> Building projects while surviving college.
+> Always learning new things.
