@@ -29,7 +29,7 @@
 
 ## 📊 My GitHub
 
-![GitHub Stats](https://github.com/nikolubis/nksplbs7/edit/main/README.md)
+![My Github](https://github.com/nikolubis)
 
 ---
 
